@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dzmdre/finagle-java-example.png)](https://travis-ci.org/dzmdre/finagle-java-example])
+
 Quick example of building a Thrift-based client and server in Java with Finagle.
 
 The examples provided with Finagle itself are geared toward Scala, so this code covers some stumbling blocks I encountered while getting up and running.
